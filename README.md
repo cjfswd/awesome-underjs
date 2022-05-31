@@ -32,3 +32,5 @@
 [blurify](https://github.com/dabanlee/blurify)  
 [vue-toastification](https://github.com/Maronato/vue-toastification)  
 [githubchart-api](https://github.com/2016rshah/githubchart-api)
+[lazy-sizes](https://github.com/aFarkas/lazysizes)
+[cross-fetch](https://github.com/lquixada/cross-fetch)
