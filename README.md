@@ -31,3 +31,4 @@
 [lit](https://github.com/lit/lit)  
 [blurify](https://github.com/dabanlee/blurify)  
 [vue-toastification](https://github.com/Maronato/vue-toastification)  
+[githubchart-api](https://github.com/2016rshah/githubchart-api)
