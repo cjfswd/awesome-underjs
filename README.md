@@ -33,4 +33,6 @@
 [vue-toastification](https://github.com/Maronato/vue-toastification)  
 [githubchart-api](https://github.com/2016rshah/githubchart-api)  
 [lazy-sizes](https://github.com/aFarkas/lazysizes)  
-[cross-fetch](https://github.com/lquixada/cross-fetch)  
+[cross-fetch](https://github.com/lquixada/cross-fetch)
+[linq.ts](https://github.com/kutyel/linq.ts)  
+[linq.js](https://github.com/mihaifm/linq)
