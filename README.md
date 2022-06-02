@@ -36,3 +36,4 @@
 [cross-fetch](https://github.com/lquixada/cross-fetch)
 [linq.ts](https://github.com/kutyel/linq.ts)  
 [linq.js](https://github.com/mihaifm/linq)
+[fitty.js](https://github.com/rikschennink/fitty)
