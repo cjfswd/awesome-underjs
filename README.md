@@ -33,7 +33,9 @@
 [vue-toastification](https://github.com/Maronato/vue-toastification)  
 [githubchart-api](https://github.com/2016rshah/githubchart-api)  
 [lazy-sizes](https://github.com/aFarkas/lazysizes)  
-[cross-fetch](https://github.com/lquixada/cross-fetch)
+[pyscript]  
+[web.sql]  
+[cross-fetch](https://github.com/lquixada/cross-fetch)  
 [linq.ts](https://github.com/kutyel/linq.ts)  
-[linq.js](https://github.com/mihaifm/linq)
-[fitty.js](https://github.com/rikschennink/fitty)
+[linq.js](https://github.com/mihaifm/linq)  
+[fitty.js](https://github.com/rikschennink/fitty)  
