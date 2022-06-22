@@ -1,0 +1,13 @@
+{
+  "name": "awesome-underjs",
+  "description": "An awesome & curated list of not mainstream libraries, frameworks and tools focused in js/ts environment.",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "dependencies": {
+    "marked": "^4.0.18",
+    "vitepress": "^1.0.0-alpha.4"
+  }
+}
